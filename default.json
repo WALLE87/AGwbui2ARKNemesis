@@ -1,103 +1,103 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 0,
-            "hideicon": false,
-            "hideiconafter": 0,
-            "iconurl": "",
-            "disableicontext": false,
-            "iconposition": 1,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": false,
-            "updateinterval": 24
-        },
-        "tabs": [
-            {
-                "layout": 2,
-                "buttontext": "<TextStyle.Red>Welcome</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Welcome to Acropolis Gaming Servers</>",
-                        "text": "\r\n                               Hi, Welcome to our community!\r\nIf you need help or have any questions, feel free to join our Discord.\r\n                  We also have a ticket system there for support!\r\n\r\n    1. F1 to open this menu. \r\n           -Xbox Hold \"X\"\r\n           -PlayStation Hold \"Square\"\r\n           -Open this menu via radial if you're on console or gamepad.\r\n\r\n    2. Shop & Kits link down below.\r\n      \r\n    3. Join our Discord for Guides - Details - Info - News.\r\n      \r\n    4. Earn shop Tokens as you play - 10 tokens every 15 min.\r\n      \r\n    5. Dino Finder - Open Inventory - Click AAT Menu button at the\r\n           bottom of your inventory. More info button above.\r\n\r\n    6. Discord, SHOP, Guide buttons below will open and take you \r\n         to external links."
-                    },
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Settings</>",
-                        "text": "\r\n- XP x1, Harvest x5, Taming x30, Mating x20, EggHatch x40\r\n\r\n- Player Level: 105\r\n\r\n- Wild Dino Level 150 \r\n         This is Primal Nemesis reccomended settings.\r\n\r\n- Keep all your items on death with (Death Inventory Keeper) mod.\r\n\r\n- 30 day decay timer for everyone. \r\n         Look at one of your Structures and type /checkdecay in \r\n         local chat to check your decay timer. \r\n         Log in to refresh this timer.\r\n         If you have multiple bases on different maps or mods you \r\n         need to log in to each one to refresh decay timers.\r\n\r\n- F2 to open extra direct links menu or - radial menu - click \r\n         the 'G' icon, Clipboard icon. Radial menu = \r\n         PC Hold \"R\"\r\n         Playstation Hold \"Square\"\r\n         Xbox Hold \"X\"\r\n"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>Rules</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Rules</>",
-                        "text": "                                         \r\n\r\n                                          <TextStyle.Yellow>We have a Full list of rules below, but our rules are mostly Simple.</>\r\n       <TextStyle.Yellow>Don't be a jerk, no racism, no harassing other players, no cheating, no trying to cause server lag.</>\r\n                                   <TextStyle.Yellow>Breaking the rules can result in a Warning, Temp Ban or Permanent Ban.</>\r\n                                       <TextStyle.Yellow>Our admins are not on a power trip here. We respect your hard work.</>\r\n                                                                          <TextStyle.Yellow>As long as you are chill we are chill.</>\r\n\r\n\r\n\r\n\r\n-Building Rules\r\n\r\n-BR1.  One base and 1 outpost per tribe per map. Multiple buildings within the same vicinity count as one). Any second base found will get automatically deleted without notice. A base is considered any structure collection. Teleporters/Beds/Taming Traps are exempt. (If you want to move from one base to another on the same map that is fine.)\r\n​\r\n-BR2. No building or aggressive dinos whatsoever @ any of the following locations:\r\n-Artifact Caves\r\n-Obelisks\r\n-​Spawn Zones\r\n-Swamp Cave (Island - Artifact of the Immune)\r\n-World Borders (bugs that allows building foundations on top of the world border)\r\n-No building or blocking cave entrances to artifacts or blocking Explorer notes including dear jane notes.\r\n\r\n-BR3.  No excessive spam outside of your base. Spam must not exceed 15 foundations of your main base walls.\r\n\r\n-BR4.  If you place an open world teleporter down for an artifact, cave, resources, it must be put on public. No open-world Turrets. \r\n\r\n-BR5. You are allowed void vacuums in your main base, but no leaving locked void vacuums out in the open-world. If you place a void vacuum down in a bossing arena, please leave it unlocked and global upload off. Otherwise please pickup your void vacuum when you are finished. No trying to steal other Players items with void vacuums, this is strongly prohibited and will get you banned. \r\n\r\n-Game Rules\r\n\r\n-GR1.  No Characters Named Human (you will be renamed without notice), No hacking or abusing any game/mod/plugin bugs. Tribes caught abusing any bugs will be banned without warning.  Example: Stacking hundreds of vaults inside of eachother.\r\n\r\n-GR2.  One character per player per cluster. No second accounts or account sharing.\r\n\r\n-GR3.  Tribe name, tribe owner, AND tribe members must be the same on all maps.\r\n\r\n-GR4.  No aggressive dinosaurs or structures at player spawns and obelisks.​\r\n\r\n-GR5.  No Insiding. Items lost to insiding will not be replaced, it is your tribe and your responsibility to hire trustworthy tribe mates. Insiding can get you banned.\r\n\r\n-GR6.  No exploiting, or cheating. This will get you instantly banned.\r\n\r\n-GR7.  No scamming users when trading with them. Absolutely prohibited.\r\n\r\n-GR8.   No stacking more than 3 dinosaurs within each other. More than 3 stacked dinosaurs will be admin wiped without notice and further punishments will apply for repeat offenders. Dinosaurs that get stacked while growing up need to be picked up as soon as they become adults.\r\n\r\n-GR9.  If you are not breeding, please keep no more than 10 tames out at a time. Tribes causing server performance issues (lag, crashes, etc) will be banned with a warning depending on the circumstance. No leaving dinos on breed while offline.\r\n\r\n- GR10. Absolutely no griefing against players on PvE servers. Griefing consists of any form of trying to kill or destroy a players model or structures.\r\n\r\n-GR11. No helping new players progress fast by giving them items upon them joining. Trading is fine  but progression skipping is against the   rules. Furthermore, when trading with a player they MUST be on the same tier as  the item being traded. No trading end-game dinosaurs to players not on that tier whatsoever. Another form of progression skipping is helping new players do bosses that they cannot otherwise handle themselves. \r\nOverall Conduct\r\n\r\n-Exchanging and/or offering real money for any in-game items, bases, or points, whether serious or joking will get you permanently banned and both parties' points wiped. Furthermore, Exchanging services or other 3rd party software or programs for any items, points, or real money will be bannable.\r\n\r\n-Disrespect to a staff member will not be tolerated whatsoever. We work hard to bring a strong and friendly community to our cluster, and all of our Admins are impartial and prejudice free. This is not an ARK server that has abusive admins. We respect the player's time and hard work.\r\n\r\n-Please report any breach of these rules/conduct to Admins/Moderators and you may receive compensation.\r\n-Players not following rules may be banned without warning.\r\n-Use the rule type and number when reporting. (ex. BR3, GR5)\r\n​-Report using a discord ticket or the support page.\r\n"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>DinoFinder</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">AAT MENU</>",
-                        "text": "                                    \r\n                                    1. To Use the dino finder open your inventory & Click the AAT button at the bottom of your inventory.\r\n                                    \r\n                                    2. Click wild dinos and select a dino from the left column.\r\n                                    \r\n                                    3. You can search named dinos in the top middle search bar - e.g. Titan, Miniboss, Edward, NPC, Warrior.\r\n                                    \r\n                                    4. Once you see a dino you want in the middle column, click on it. Then you can track it\r\n                                          with the tear drop located at the top right.\r\n                                    \r\n                                    5. To untrack a dino, select a dino in the left column, select any dino in the middle column\r\n                                          then click the drop down menu in the top right next to the tear drop and click any dino \r\n                                          that is in that drop down to untrack it.\r\n                                    \r\n                                    6. Be careful not to click the teardrop in the top middle column if you are searching all dinos.\r\n                                          It will track all dinos on the server and cause you extreme lag or crashing. \r\n                                          If this happens and you accidentally tracked all dinos and you can't undo it. Join the Discord \r\n                                          and an admin can help you.\r\n"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>ShopInfo</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Account-Connect</>",
-                        "text": "\r\n<TextStyle.Yellow>You can visit our shop by clicking the shop link below.</>\r\n\r\n1. You need to link your account in order to receive items from the shop automatically.\r\n     -1. Sign into the shop. (We recommend signing in with discord as it makes everything easier, but you can use any method on there.)\r\n     -2. Click your name at the top right of the web shop page.\r\n     -3. Click settings.\r\n     -4. Scroll down until you see (Option 1) Request a connect code IN-GAME, by typing !getconnectcode once in chat (local or global) and \r\n            then typing !getconnectcode a 2nd time and Enter the code you receive in the field under (option 1) on the settings web page.\r\n\r\n2. If you order something and don't receive anything within 5 - 30 seconds. Make sure whatever you used to login or order with is \r\n     connected to your account. You can link those on the settings page as well. You will see the icons - twitch, steam, epic games etc. \r\n     Just click on the Icon and link it.\r\n"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>Voting</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Server Voting Info</>",
-                        "text": "\r\n<TextStyle.Yellow>You can receive up to 105 tokens a day by voting for our servers. 35 tokens per vote and you get 3 votes per 24hours.</>\r\n\r\n1. If you have not linked your account already check ShopInfo above.\r\n\r\n2. Once your account is linked you will need to have a steam account. Link your steam account by clicking your name at the top right\r\n     of the shop page, click settings and then scroll down until you see the steam icon. Click the steam icon and link it.\r\n\r\nYou only have to link it once and then you are good to go. \r\n\r\n3.Once your steam is linked to the Shop. You can click the shop link below. Once you are on the website click the tab at the top of the page\r\n    that says Home/Vote. Now you will see servers for Omega mod and Nemesis Mod. Make sure you are voting for the mod you are playing\r\n    on. \r\n\r\n4. Click the Vote button, click the Vote on Ark-servers.net and cast your vote.\r\n\r\n5. Once you cast your vote make sure you go back and hit the little green Claim button. If you don't see it, click vote again and you should see\r\n     it to the right of Vote on Ark-servers.net button.\r\n"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "<TextStyle.Red>Trade/Gift Tokens</>",
-                "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,255,255\">Trade or Gift Tokens</>",
-                        "text": "\r\n<TextStyle.Yellow>Want to Trade or Gift Tokens to a player or friend?</>\r\n\r\n1. Click the shop link below.\r\n\r\n2. Click 'Players' tab at the top of the page.\r\n\r\n3. Search for the players in game name and then click on the players name.\r\n\r\n4. Click their name to the right of the 'About' & 'Statistics'.\r\n\r\n5. Select 'Send Tokens' from the drop down menu.\r\n\r\n6. Select the token Amount then click send tokens button.\r\n"
-                    }
-                ]
-            }
-        ],
-        "links": [
-            {
-                "text": "<TextStyle.Violet>Discord</>",
-                "url": "https://discord.com/invite/SMfgQ8HYZZ"
-            },
-            {
-                "text": "<TextStyle.Yellow>SHOP</>",
-                "url": "https://acropolisgaming.premiumark.net/shop"
-            },
-            {
-                "text": "<TextStyle.Green>Nemesis Guide</>",
-                "url": "https://docs.google.com/document/d/1S12E5fJ_HYd8ynciSnxZMVeeZx1SoO-SrYTtJjAeAwk/edit?tab=t.0#heading=h.jo8n2f5k7jzf"
-            }
-        ],
-        "version": 2
-    }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 0,
+      "iconurl": "",
+      "disableicontext": false,
+      "iconposition": 1,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "<TextStyle.Red>Welcome</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">Welcome to Acropolis Gaming Servers</>",
+            "text": "\r\n                               Hi, Welcome to our community!\r\nIf you need help or have any questions, feel free to join our Discord.\r\n                  We also have a ticket system there for support!\r\n\r\n    1. F1 to open this menu. \r\n           -Xbox Hold \"X\"\r\n           -PlayStation Hold \"Square\"\r\n           -Open this menu via radial if you're on console or gamepad.\r\n\r\n    2. Shop & Kits link down below.\r\n      \r\n    3. Join our Discord for Guides - Details - Info - News.\r\n      \r\n    4. Earn shop Tokens as you play - 10 tokens every 15 min.\r\n      \r\n    5. Dino Finder - Open Inventory - Click AAT Menu button at the\r\n           bottom of your inventory. More info button above.\r\n\r\n    6. Discord, SHOP, Guide buttons below will open and take you \r\n         to external links."
+          },
+          {
+            "title": "<RichColor Color=\"0,255,255\">Settings</>",
+            "text": "\r\n- XP x1, Harvest x5, Taming x30, Mating x20, EggHatch x40\r\n\r\n- Player Level: 105\r\n\r\n- Wild Dino Level 150 \r\n         This is Primal Nemesis reccomended settings.\r\n\r\n- Keep all your items on death with (Death Inventory Keeper) mod.\r\n\r\n- 30 day decay timer for everyone. \r\n         Look at one of your Structures and type /checkdecay in \r\n         local chat to check your decay timer. \r\n         Log in to refresh this timer.\r\n         If you have multiple bases on different maps or mods you \r\n         need to log in to each one to refresh decay timers.\r\n\r\n- F2 to open extra direct links menu or - radial menu - click \r\n         the 'G' icon, Clipboard icon. Radial menu = \r\n         PC Hold \"R\"\r\n         Playstation Hold \"Square\"\r\n         Xbox Hold \"X\"\r\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Rules</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">Rules</>",
+            "text": "                                         \r\n\r\n                                          <TextStyle.Yellow>We have a Full list of rules below, but our rules are mostly Simple.</>\r\n       <TextStyle.Yellow>Don't be a jerk, no racism, no harassing other players, no cheating, no trying to cause server lag.</>\r\n                                   <TextStyle.Yellow>Breaking the rules can result in a Warning, Temp Ban or Permanent Ban.</>\r\n                                       <TextStyle.Yellow>Our admins are not on a power trip here. We respect your hard work.</>\r\n                                                                          <TextStyle.Yellow>As long as you are chill we are chill.</>\r\n\r\n\r\n\r\n\r\n\r\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>DinoFinder</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">AAT MENU</>",
+            "text": "                                    \r\n                                    1. To Use the dino finder open your inventory & Click the AAT button at the bottom of your inventory.\r\n                                    \r\n                                    2. Click wild dinos and select a dino from the left column.\r\n                                    \r\n                                    3. You can search named dinos in the top middle search bar - e.g. Titan, Miniboss, Edward, NPC, Warrior.\r\n                                    \r\n                                    4. Once you see a dino you want in the middle column, click on it. Then you can track it\r\n                                          with the tear drop located at the top right.\r\n                                    \r\n                                    5. To untrack a dino, select a dino in the left column, select any dino in the middle column\r\n                                          then click the drop down menu in the top right next to the tear drop and click any dino \r\n                                          that is in that drop down to untrack it.\r\n                                    \r\n                                    6. Be careful not to click the teardrop in the top middle column if you are searching all dinos.\r\n                                          It will track all dinos on the server and cause you extreme lag or crashing. \r\n                                          If this happens and you accidentally tracked all dinos and you can't undo it. Join the Discord \r\n                                          and an admin can help you.\r\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>ShopInfo</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">Account-Connect</>",
+            "text": "\r\n<TextStyle.Yellow>You can visit our shop by clicking the shop link below.</>\r\n\r\n1. You need to link your account in order to receive items from the shop automatically.\r\n     -1. Sign into the shop. (We recommend signing in with discord as it makes everything easier, but you can use any method on there.)\r\n     -2. Click your name at the top right of the web shop page.\r\n     -3. Click settings.\r\n     -4. Scroll down until you see (Option 1) Request a connect code IN-GAME, by typing !getconnectcode once in chat (local or global) and \r\n            then typing !getconnectcode a 2nd time and Enter the code you receive in the field under (option 1) on the settings web page.\r\n\r\n2. If you order something and don't receive anything within 5 - 30 seconds. Make sure whatever you used to login or order with is \r\n     connected to your account. You can link those on the settings page as well. You will see the icons - twitch, steam, epic games etc. \r\n     Just click on the Icon and link it.\r\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Voting</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">Server Voting Info</>",
+            "text": "\r\n<TextStyle.Yellow>You can receive up to 105 tokens a day by voting for our servers. 35 tokens per vote and you get 3 votes per 24hours.</>\r\n\r\n1. If you have not linked your account already check ShopInfo above.\r\n\r\n2. Once your account is linked you will need to have a steam account. Link your steam account by clicking your name at the top right\r\n     of the shop page, click settings and then scroll down until you see the steam icon. Click the steam icon and link it.\r\n\r\nYou only have to link it once and then you are good to go. \r\n\r\n3.Once your steam is linked to the Shop. You can click the shop link below. Once you are on the website click the tab at the top of the page\r\n    that says Home/Vote. Now you will see servers for Omega mod and Nemesis Mod. Make sure you are voting for the mod you are playing\r\n    on. \r\n\r\n4. Click the Vote button, click the Vote on Ark-servers.net and cast your vote.\r\n\r\n5. Once you cast your vote make sure you go back and hit the little green Claim button. If you don't see it, click vote again and you should see\r\n     it to the right of Vote on Ark-servers.net button.\r\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Trade/Gift Tokens</>",
+        "imageurl": "https://github.com/WALLE87/AGIMAGES/blob/main/AHUI2.png?raw=true",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,255,255\">Trade or Gift Tokens</>",
+            "text": "\r\n<TextStyle.Yellow>Want to Trade or Gift Tokens to a player or friend?</>\r\n\r\n1. Click the shop link below.\r\n\r\n2. Click 'Players' tab at the top of the page.\r\n\r\n3. Search for the players in game name and then click on the players name.\r\n\r\n4. Click their name to the right of the 'About' & 'Statistics'.\r\n\r\n5. Select 'Send Tokens' from the drop down menu.\r\n\r\n6. Select the token Amount then click send tokens button.\r\n"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "<TextStyle.Violet>Discord</>",
+        "url": "https://discord.com/invite/SMfgQ8HYZZ"
+      },
+      {
+        "text": "<TextStyle.Yellow>SHOP</>",
+        "url": "https://acropolisgaming.premiumark.net/shop"
+      },
+      {
+        "text": "<TextStyle.Green>Nemesis Guide</>",
+        "url": "https://docs.google.com/document/d/1S12E5fJ_HYd8ynciSnxZMVeeZx1SoO-SrYTtJjAeAwk/edit?tab=t.0#heading=h.jo8n2f5k7jzf"
+      }
+    ],
+    "version": 2
+  }
 }
